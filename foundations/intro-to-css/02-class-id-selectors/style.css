@@ -1,0 +1,15 @@
+p{
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.subsection{
+    font-size: 24px;;
+}
+.subsection.preview{
+    font-weight: bold;
+    background-color: #90ee90;
+}
+#title{
+    font-size: 36px;
+    color: hsl(240, 100%, 50%);
+}
