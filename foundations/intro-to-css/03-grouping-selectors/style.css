@@ -1,0 +1,12 @@
+.whtver{
+    background-color: black;
+    color: white;
+}
+.simply{
+    background-color: yellow;
+}
+.whtver,
+.simply{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
